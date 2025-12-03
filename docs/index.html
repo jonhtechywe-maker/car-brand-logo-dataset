@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Explore a comprehensive collection of 387+ car manufacturer logos with high-quality images and detailed information."
+    />
+    <meta
+      name="keywords"
+      content="car logos, automobile brands, car manufacturers, vehicle logos, automotive logos"
+    />
+    <meta name="author" content="jonhtechywe-maker" />
+    <title>Car Logos Dataset - Complete Collection</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <header class="header">
+        <div class="header-content">
+          <h1 class="title">🚗 Car Logos Dataset</h1>
+          <p class="subtitle">
+            A comprehensive collection of car manufacturer logos
+          </p>
+        </div>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <span class="theme-icon">🌙</span>
+        </button>
+      </header>
+
+      <!-- Search Section -->
+      <section class="search-section">
+        <div class="search-container">
+          <input
+            type="text"
+            id="searchInput"
+            class="search-input"
+            placeholder="Search by manufacturer name..."
+            autocomplete="off"
+          />
+          <span class="search-icon">🔍</span>
+        </div>
+        <div class="stats">
+          <span id="resultsCount">Loading...</span>
+        </div>
+      </section>
+
+      <!-- Loading State -->
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <p>Loading car logos...</p>
+      </div>
+
+      <!-- Error State -->
+      <div class="error" id="error" style="display: none">
+        <p>❌ Failed to load logos. Please try again later.</p>
+      </div>
+
+      <!-- Logos Grid -->
+      <main class="logos-grid" id="logosGrid">
+        <!-- Cards will be dynamically inserted here -->
+      </main>
+
+      <!-- No Results -->
+      <div class="no-results" id="noResults" style="display: none">
+        <p>🔍 No logos found matching your search.</p>
+      </div>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <p>
+          Data source:
+          <a href="https://www.carlogos.org/" target="_blank" rel="noopener"
+            >Carlogos.org</a
+          >
+          |
+          <a
+            href="https://github.com/jonhtechywe-maker/car-brand-logo-dataset"
+            target="_blank"
+            rel="noopener"
+            >View on GitHub</a
+          >
+        </p>
+        <p class="license">
+          MIT Licensed - Logos are property of their respective owners
+        </p>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
