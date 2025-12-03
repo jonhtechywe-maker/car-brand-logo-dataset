@@ -1,8 +1,53 @@
 [
   {
+    "name": "AKT",
+    "slug": "akt",
+    "fileName": "akt.png"
+  },
+  {
+    "name": "Aprilia",
+    "slug": "aprilia",
+    "fileName": "aprilia.png"
+  },
+  {
+    "name": "Arctic Cat",
+    "slug": "arctic-cat",
+    "fileName": "arctic-cat.png"
+  },
+  {
+    "name": "Bajaj",
+    "slug": "bajaj",
+    "fileName": "bajaj.png"
+  },
+  {
+    "name": "Bobcat",
+    "slug": "bobcat",
+    "fileName": "bobcat.png"
+  },
+  {
+    "name": "Caterpillar",
+    "slug": "carterpillar",
+    "fileName": "carterpillar.png"
+  },
+  {
     "name": "Cupra",
     "slug": "cupra",
     "fileName": "cupra.png"
+  },
+  {
+    "name": "Great Dane",
+    "slug": "great-dane",
+    "fileName": "great-dane.png"
+  },
+  {
+    "name": "Hero",
+    "slug": "hero",
+    "fileName": "hero.png"
+  },
+  {
+    "name": "Hudson",
+    "slug": "hudson",
+    "fileName": "hudson.png"
   },
   {
     "name": "Jetour",
@@ -10,9 +55,44 @@
     "fileName": "jetour.png"
   },
   {
+    "name": "Nash",
+    "slug": "nash",
+    "fileName": "nash.png"
+  },
+  {
     "name": "Omoda",
     "slug": "omoda",
     "fileName": "omoda.png"
+  },
+  {
+    "name": "Packard",
+    "slug": "packard",
+    "fileName": "packard.png"
+  },
+  {
+    "name": "Polaris",
+    "slug": "polaris",
+    "fileName": "polaris.png"
+  },
+  {
+    "name": "Pulsar",
+    "slug": "pulsar",
+    "fileName": "pulsar.png"
+  },
+  {
+    "name": "Q-Link",
+    "slug": "q-link",
+    "fileName": "q-link.png"
+  },
+  {
+    "name": "Qianjiang",
+    "slug": "qianjiang",
+    "fileName": "qianjiang.png"
+  },
+  {
+    "name": "Royal Enfield",
+    "slug": "royal-enfield",
+    "fileName": "royal-enfield.png"
   },
   {
     "name": "SEV",
@@ -20,8 +100,78 @@
     "fileName": "sev.png"
   },
   {
+    "name": "Skoda",
+    "slug": "skoda",
+    "fileName": "skoda.png"
+  },
+  {
+    "name": "Studebaker",
+    "slug": "studebaker",
+    "fileName": "studebaker.png"
+  },
+  {
+    "name": "Trabant",
+    "slug": "trabant",
+    "fileName": "trabant.png"
+  },
+  {
+    "name": "TrailKing",
+    "slug": "trailking",
+    "fileName": "trailking.png"
+  },
+  {
+    "name": "TrailMaster",
+    "slug": "trailmaster",
+    "fileName": "trailmaster.png"
+  },
+  {
+    "name": "Trailmobile",
+    "slug": "trailmobile",
+    "fileName": "trailmobile.png"
+  },
+  {
+    "name": "TVS",
+    "slug": "tvs",
+    "fileName": "tvs.png"
+  },
+  {
+    "name": "Utility",
+    "slug": "utility",
+    "fileName": "utility.png"
+  },
+  {
+    "name": "Vespa",
+    "slug": "vespa",
+    "fileName": "vespa.png"
+  },
+  {
+    "name": "Wabash",
+    "slug": "wabash",
+    "fileName": "wabash.png"
+  },
+  {
+    "name": "Willys",
+    "slug": "willys",
+    "fileName": "willys.png"
+  },
+  {
+    "name": "Yamaha",
+    "slug": "yamaha",
+    "fileName": "yamaha.png"
+  },
+  {
+    "name": "Yamamoto",
+    "slug": "yamamoto",
+    "fileName": "yamamoto.png"
+  },
+  {
     "name": "Yugo",
     "slug": "yugo",
     "fileName": "yugo.png"
+  },
+  {
+    "name": "Zukida",
+    "slug": "zukida",
+    "fileName": "zukida.png"
   }
 ]
