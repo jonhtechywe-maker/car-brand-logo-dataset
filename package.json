@@ -4,7 +4,7 @@
   "description": "A comprehensive collection of 383 car manufacturer logos with multiple size variations and metadata",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filippofilip95/car-logos-dataset.git"
+    "url": "git+https://github.com/jonhtechywe-maker/car-brand-logo-dataset.git"
   },
   "type": "module",
   "main": "src/index.ts",
@@ -36,6 +36,6 @@
     "dataset",
     "crawler"
   ],
-  "author": "filippofilip",
+  "author": "jonhtechywe-maker",
   "license": "MIT"
 }

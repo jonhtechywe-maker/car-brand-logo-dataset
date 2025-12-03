@@ -3,7 +3,7 @@ import path from "path";
 export const BASE_URL = "https://www.carlogos.org";
 
 export const BASE_PUBLIC_ACCESS_URL =
-  "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master";
+  "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main";
 
 export const THUMB_HEIGHT = 256;
 

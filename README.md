@@ -6,9 +6,9 @@ A comprehensive collection of **387 car manufacturer logos** with multiple size 
 
 - 387 unique car manufacturer logos
 - Three size variations for each logo:
-    - Original high-resolution images
-    - Optimized versions (smaller file size, maintained quality)
-    - Thumbnails (256px height)
+  - Original high-resolution images
+  - Optimized versions (smaller file size, maintained quality)
+  - Thumbnails (256px height)
 - Detailed JSON metadata for each logo
 - MIT licensed (logos remain property of respective owners)
 - Regular updates (Last crawled: August 27, 2025)
@@ -31,7 +31,7 @@ A comprehensive collection of **387 car manufacturer logos** with multiple size 
 
 ```bash
 # Clone the repository
-git clone https://github.com/filippofilip95/car-logos-dataset.git
+git clone https://github.com/jonhtechywe-maker/car-brand-logo-dataset.git
 
 # Install dependencies
 npm install
@@ -70,9 +70,9 @@ Embed logos directly using GitHub raw URLs:
   "name": "Volkswagen",
   "slug": "volkswagen",
   "image": {
-    "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/volkswagen.png",
-    "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png",
-    "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/volkswagen.jpg"
+    "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/volkswagen.png",
+    "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/volkswagen.png",
+    "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/volkswagen.jpg"
   }
 }
 ```
@@ -102,5 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Support
 
-- Create an [Issue](https://github.com/filippofilip95/car-logos-dataset/issues) for bug reports or feature requests
+- Create an [Issue](https://github.com/jonhtechywe-maker/car-brand-logo-dataset/issues) for bug reports or feature requests
 - Star the repository if you find it useful!
