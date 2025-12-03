@@ -18,5 +18,10 @@
     "name": "SEV",
     "slug": "sev",
     "fileName": "sev.png"
+  },
+  {
+    "name": "Yugo",
+    "slug": "yugo",
+    "fileName": "yugo.png"
   }
 ]
