@@ -173,5 +173,11 @@
     "name": "Zukida",
     "slug": "zukida",
     "fileName": "zukida.png"
+  },
+    {
+    "name": "Mercedes-Benz",
+    "slug": "mercedes-benz",
+    "fileName": "mercedes-benz.png"
   }
+  
 ]
