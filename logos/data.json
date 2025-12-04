@@ -1924,58 +1924,6 @@
     }
   },
   {
-    "name": "Ginetta",
-    "slug": "ginetta",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Ginetta-logo-1024x768.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/ginetta.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/ginetta.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/ginetta.png",
-      "localThumb": "./thumb/ginetta.png",
-      "localOptimized": "./optimized/ginetta.png",
-      "localOriginal": "./original/ginetta.png"
-    }
-  },
-  {
-    "name": "GMC",
-    "slug": "gmc",
-    "image": {
-      "source": "https://www.carlogos.org/logo/GMC-logo-2200x600.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/gmc.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/gmc.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/gmc.png",
-      "localThumb": "./thumb/gmc.png",
-      "localOptimized": "./optimized/gmc.png",
-      "localOriginal": "./original/gmc.png"
-    }
-  },
-  {
-    "name": "Golden Dragon",
-    "slug": "golden-dragon",
-    "image": {
-      "source": "https://www.carlogos.org/car-logos/golden-dragon-logo-900x700-show.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/golden-dragon.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/golden-dragon.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/golden-dragon.png",
-      "localThumb": "./thumb/golden-dragon.png",
-      "localOptimized": "./optimized/golden-dragon.png",
-      "localOriginal": "./original/golden-dragon.png"
-    }
-  },
-  {
-    "name": "Gonow",
-    "slug": "gonow",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Gonow-logo-2010-1440x900.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/gonow.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/gonow.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/gonow.png",
-      "localThumb": "./thumb/gonow.png",
-      "localOptimized": "./optimized/gonow.png",
-      "localOriginal": "./original/gonow.png"
-    }
-  },
-  {
     "name": "Great Dane",
     "slug": "great-dane",
     "image": {
@@ -1989,16 +1937,68 @@
     }
   },
   {
-    "name": "Great Wall",
-    "slug": "great-wall",
+    "name": "Grinnall",
+    "slug": "grinnall",
     "image": {
-      "source": "https://www.carlogos.org/logo/Great-Wall-logo-2007-2048x2048.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/great-wall.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/great-wall.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/great-wall.png",
-      "localThumb": "./thumb/great-wall.png",
-      "localOptimized": "./optimized/great-wall.png",
-      "localOriginal": "./original/great-wall.png"
+      "source": "https://www.carlogos.org/logo/Grinnall-cars-logo-1366x768.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/grinnall.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/grinnall.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/grinnall.png",
+      "localThumb": "./thumb/grinnall.png",
+      "localOptimized": "./optimized/grinnall.png",
+      "localOriginal": "./original/grinnall.png"
+    }
+  },
+  {
+    "name": "Gumpert",
+    "slug": "gumpert",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Gumpert-logo-1920x1080.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/gumpert.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/gumpert.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/gumpert.png",
+      "localThumb": "./thumb/gumpert.png",
+      "localOptimized": "./optimized/gumpert.png",
+      "localOriginal": "./original/gumpert.png"
+    }
+  },
+  {
+    "name": "Hafei",
+    "slug": "hafei",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Hafei-logo-1920x1080.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/hafei.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/hafei.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/hafei.png",
+      "localThumb": "./thumb/hafei.png",
+      "localOptimized": "./optimized/hafei.png",
+      "localOriginal": "./original/hafei.png"
+    }
+  },
+  {
+    "name": "Haima",
+    "slug": "haima",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Haima-logo-3840x2160.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/haima.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/haima.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/haima.png",
+      "localThumb": "./thumb/haima.png",
+      "localOptimized": "./optimized/haima.png",
+      "localOriginal": "./original/haima.png"
+    }
+  },
+  {
+    "name": "Haval",
+    "slug": "haval",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Haval-logo-1366x768.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/haval.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/haval.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/haval.png",
+      "localThumb": "./thumb/haval.png",
+      "localOptimized": "./optimized/haval.png",
+      "localOriginal": "./original/haval.png"
     }
   },
   {
@@ -2389,19 +2389,6 @@
       "localThumb": "./thumb/isdera.png",
       "localOptimized": "./optimized/isdera.png",
       "localOriginal": "./original/isdera.jpg"
-    }
-  },
-  {
-    "name": "Iso",
-    "slug": "iso",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Iso-logo-1920x1080.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/iso.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/iso.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/iso.png",
-      "localThumb": "./thumb/iso.png",
-      "localOptimized": "./optimized/iso.png",
-      "localOriginal": "./original/iso.png"
     }
   },
   {
@@ -2990,6 +2977,71 @@
     }
   },
   {
+    "name": "Mahindra",
+    "slug": "mahindra",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Mahindra-logo-2560x1440.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mahindra.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mahindra.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/mahindra.png",
+      "localThumb": "./thumb/mahindra.png",
+      "localOptimized": "./optimized/mahindra.png",
+      "localOriginal": "./original/mahindra.png"
+    }
+  },
+  {
+    "name": "MAN",
+    "slug": "man",
+    "image": {
+      "source": "https://www.carlogos.org/logo/MAN-logo-1920x1080.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/man.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/man.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/man.png",
+      "localThumb": "./thumb/man.png",
+      "localOptimized": "./optimized/man.png",
+      "localOriginal": "./original/man.png"
+    }
+  },
+  {
+    "name": "Mansory",
+    "slug": "mansory",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Mansory-logo-1600x400.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mansory.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mansory.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/mansory.png",
+      "localThumb": "./thumb/mansory.png",
+      "localOptimized": "./optimized/mansory.png",
+      "localOriginal": "./original/mansory.png"
+    }
+  },
+  {
+    "name": "Marcos",
+    "slug": "marcos",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Marcos-logo-640x460.jpg",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/marcos.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/marcos.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/marcos.jpg",
+      "localThumb": "./thumb/marcos.png",
+      "localOptimized": "./optimized/marcos.png",
+      "localOriginal": "./original/marcos.jpg"
+    }
+  },
+  {
+    "name": "Marlin",
+    "slug": "marlin",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Marlin-car-logo-640x480.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/marlin.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/marlin.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/marlin.png",
+      "localThumb": "./thumb/marlin.png",
+      "localOptimized": "./optimized/marlin.png",
+      "localOriginal": "./original/marlin.png"
+    }
+  },
+  {
     "name": "Maserati",
     "slug": "maserati",
     "image": {
@@ -3123,19 +3175,6 @@
     "name": "Mercedes-Benz",
     "slug": "mercedes-benz",
     "image": {
-      "source": "https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-1920x1080.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mercedes-benz.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mercedes-benz.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/mercedes-benz.png",
-      "localThumb": "./thumb/mercedes-benz.png",
-      "localOptimized": "./optimized/mercedes-benz.png",
-      "localOriginal": "./original/mercedes-benz.png"
-    }
-  },
-  {
-    "name": "Mercedes-Benz",
-    "slug": "mercedes-benz",
-    "image": {
       "source": "C:\\Users\\brahayan.mindiola\\Desktop\\GIT_CAR-LOGO\\car-logos-dataset\\local-logos\\mercedes-benz.png",
       "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mercedes-benz.png",
       "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mercedes-benz.png",
@@ -3143,45 +3182,6 @@
       "localThumb": "./thumb/mercedes-benz.png",
       "localOptimized": "./optimized/mercedes-benz.png",
       "localOriginal": "./original/mercedes-benz.png"
-    }
-  },
-  {
-    "name": "Mercury",
-    "slug": "mercury",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Mercury-logo-1980-2500x2500.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mercury.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mercury.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/mercury.png",
-      "localThumb": "./thumb/mercury.png",
-      "localOptimized": "./optimized/mercury.png",
-      "localOriginal": "./original/mercury.png"
-    }
-  },
-  {
-    "name": "Merkur",
-    "slug": "merkur",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Merkur-logo-black-1366x768.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/merkur.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/merkur.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/merkur.png",
-      "localThumb": "./thumb/merkur.png",
-      "localOptimized": "./optimized/merkur.png",
-      "localOriginal": "./original/merkur.png"
-    }
-  },
-  {
-    "name": "MEV",
-    "slug": "mev",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Mills-Extreme-Vehicles-logo-640x480.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/mev.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/mev.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/mev.png",
-      "localThumb": "./thumb/mev.png",
-      "localOptimized": "./optimized/mev.png",
-      "localOriginal": "./original/mev.png"
     }
   },
   {
@@ -3874,6 +3874,110 @@
     }
   },
   {
+    "name": "Renault",
+    "slug": "renault",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Renault-logo-2015-2048x2048.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/renault.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/renault.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/renault.png",
+      "localThumb": "./thumb/renault.png",
+      "localOptimized": "./optimized/renault.png",
+      "localOriginal": "./original/renault.png"
+    }
+  },
+  {
+    "name": "Renault Samsung",
+    "slug": "renault-samsung",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Renault-Samsung-Motors-logo-1366x768.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/renault-samsung.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/renault-samsung.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/renault-samsung.png",
+      "localThumb": "./thumb/renault-samsung.png",
+      "localOptimized": "./optimized/renault-samsung.png",
+      "localOriginal": "./original/renault-samsung.png"
+    }
+  },
+  {
+    "name": "Rezvani",
+    "slug": "rezvani",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Rezvani-logo-1024x768.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/rezvani.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/rezvani.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/rezvani.png",
+      "localThumb": "./thumb/rezvani.png",
+      "localOptimized": "./optimized/rezvani.png",
+      "localOriginal": "./original/rezvani.png"
+    }
+  },
+  {
+    "name": "Riley",
+    "slug": "riley",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Riley-logo-640x389.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/riley.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/riley.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/riley.png",
+      "localThumb": "./thumb/riley.png",
+      "localOptimized": "./optimized/riley.png",
+      "localOriginal": "./original/riley.png"
+    }
+  },
+  {
+    "name": "Rimac",
+    "slug": "rimac",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Rimac-logo-2016-2048x2048.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/rimac.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/rimac.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/rimac.png",
+      "localThumb": "./thumb/rimac.png",
+      "localOptimized": "./optimized/rimac.png",
+      "localOriginal": "./original/rimac.png"
+    }
+  },
+  {
+    "name": "Rinspeed",
+    "slug": "rinspeed",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Rinspeed-logo-1920x1080.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/rinspeed.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/rinspeed.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/rinspeed.png",
+      "localThumb": "./thumb/rinspeed.png",
+      "localOptimized": "./optimized/rinspeed.png",
+      "localOriginal": "./original/rinspeed.png"
+    }
+  },
+  {
+    "name": "Rolls-Royce",
+    "slug": "rolls-royce",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Rolls-Royce-logo-2048x2048.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/rolls-royce.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/rolls-royce.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/rolls-royce.png",
+      "localThumb": "./thumb/rolls-royce.png",
+      "localOptimized": "./optimized/rolls-royce.png",
+      "localOriginal": "./original/rolls-royce.png"
+    }
+  },
+  {
+    "name": "Ronart",
+    "slug": "ronart",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Ronart-Cars-logo-1366x768.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/ronart.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/ronart.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/ronart.png",
+      "localThumb": "./thumb/ronart.png",
+      "localOptimized": "./optimized/ronart.png",
+      "localOriginal": "./original/ronart.png"
+    }
+  },
+  {
     "name": "Rossion",
     "slug": "rossion",
     "image": {
@@ -3949,45 +4053,6 @@
       "localThumb": "./thumb/saic-motor.png",
       "localOptimized": "./optimized/saic-motor.png",
       "localOriginal": "./original/saic-motor.png"
-    }
-  },
-  {
-    "name": "Saipa",
-    "slug": "saipa",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Saipa-logo-2560x1440.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/saipa.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/saipa.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/saipa.png",
-      "localThumb": "./thumb/saipa.png",
-      "localOptimized": "./optimized/saipa.png",
-      "localOriginal": "./original/saipa.png"
-    }
-  },
-  {
-    "name": "Saleen",
-    "slug": "saleen",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Saleen-logo-640x456.jpg",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/saleen.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/saleen.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/saleen.jpg",
-      "localThumb": "./thumb/saleen.png",
-      "localOptimized": "./optimized/saleen.png",
-      "localOriginal": "./original/saleen.jpg"
-    }
-  },
-  {
-    "name": "Saturn",
-    "slug": "saturn",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Saturn-logo-1985-2048x2048.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/saturn.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/saturn.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/saturn.png",
-      "localThumb": "./thumb/saturn.png",
-      "localOptimized": "./optimized/saturn.png",
-      "localOriginal": "./original/saturn.png"
     }
   },
   {
@@ -4758,58 +4823,6 @@
     }
   },
   {
-    "name": "VinFast",
-    "slug": "vinfast",
-    "image": {
-      "source": "https://www.carlogos.org/car-logos/vinfast-logo-900x850-show.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/vinfast.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/vinfast.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/vinfast.png",
-      "localThumb": "./thumb/vinfast.png",
-      "localOptimized": "./optimized/vinfast.png",
-      "localOriginal": "./original/vinfast.png"
-    }
-  },
-  {
-    "name": "VLF",
-    "slug": "vlf",
-    "image": {
-      "source": "https://www.carlogos.org/car-logos/vlf-logo-600x900-show.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/vlf.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/vlf.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/vlf.png",
-      "localThumb": "./thumb/vlf.png",
-      "localOptimized": "./optimized/vlf.png",
-      "localOriginal": "./original/vlf.png"
-    }
-  },
-  {
-    "name": "Volkswagen",
-    "slug": "volkswagen",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Volkswagen-logo-2019-1500x1500.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/volkswagen.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/volkswagen.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/volkswagen.png",
-      "localThumb": "./thumb/volkswagen.png",
-      "localOptimized": "./optimized/volkswagen.png",
-      "localOriginal": "./original/volkswagen.png"
-    }
-  },
-  {
-    "name": "Volvo",
-    "slug": "volvo",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Volvo-logo-2014-1920x1080.png",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/volvo.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/volvo.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/volvo.png",
-      "localThumb": "./thumb/volvo.png",
-      "localOptimized": "./optimized/volvo.png",
-      "localOriginal": "./original/volvo.png"
-    }
-  },
-  {
     "name": "W Motors",
     "slug": "w-motors",
     "image": {
@@ -4833,19 +4846,6 @@
       "localThumb": "./thumb/wabash.png",
       "localOptimized": "./optimized/wabash.png",
       "localOriginal": "./original/wabash.png"
-    }
-  },
-  {
-    "name": "Wanderer",
-    "slug": "wanderer",
-    "image": {
-      "source": "https://www.carlogos.org/logo/Wanderer-logo-black-640x311.jpg",
-      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/wanderer.png",
-      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/wanderer.png",
-      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/wanderer.jpg",
-      "localThumb": "./thumb/wanderer.png",
-      "localOptimized": "./optimized/wanderer.png",
-      "localOriginal": "./original/wanderer.jpg"
     }
   },
   {
@@ -5070,6 +5070,45 @@
     }
   },
   {
+    "name": "Zastava",
+    "slug": "zastava",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Zastava-logo-640x274.jpg",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/zastava.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/zastava.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/zastava.jpg",
+      "localThumb": "./thumb/zastava.png",
+      "localOptimized": "./optimized/zastava.png",
+      "localOriginal": "./original/zastava.jpg"
+    }
+  },
+  {
+    "name": "ZAZ",
+    "slug": "zaz",
+    "image": {
+      "source": "https://www.carlogos.org/logo/ZAZ-logo-800x600.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/zaz.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/zaz.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/zaz.png",
+      "localThumb": "./thumb/zaz.png",
+      "localOptimized": "./optimized/zaz.png",
+      "localOriginal": "./original/zaz.png"
+    }
+  },
+  {
+    "name": "Zeekr",
+    "slug": "zeekr",
+    "image": {
+      "source": "https://www.carlogos.org/car-logos/zeekr-logo-2300x700-show.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/zeekr.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/zeekr.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/zeekr.png",
+      "localThumb": "./thumb/zeekr.png",
+      "localOptimized": "./optimized/zeekr.png",
+      "localOriginal": "./original/zeekr.png"
+    }
+  },
+  {
     "name": "Zenos",
     "slug": "zenos",
     "image": {
@@ -5106,6 +5145,32 @@
       "localThumb": "./thumb/zhongtong.png",
       "localOptimized": "./optimized/zhongtong.png",
       "localOriginal": "./original/zhongtong.png"
+    }
+  },
+  {
+    "name": "Zinoro",
+    "slug": "zinoro",
+    "image": {
+      "source": "https://www.carlogos.org/car-logos/zhinuo-logo-800x600-show.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/zinoro.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/zinoro.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/zinoro.png",
+      "localThumb": "./thumb/zinoro.png",
+      "localOptimized": "./optimized/zinoro.png",
+      "localOriginal": "./original/zinoro.png"
+    }
+  },
+  {
+    "name": "Zotye",
+    "slug": "zotye",
+    "image": {
+      "source": "https://www.carlogos.org/logo/Zotye-logo-2560x1440.png",
+      "thumb": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/thumb/zotye.png",
+      "optimized": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/optimized/zotye.png",
+      "original": "https://raw.githubusercontent.com/jonhtechywe-maker/car-brand-logo-dataset/main/logos/original/zotye.png",
+      "localThumb": "./thumb/zotye.png",
+      "localOptimized": "./optimized/zotye.png",
+      "localOriginal": "./original/zotye.png"
     }
   },
   {
