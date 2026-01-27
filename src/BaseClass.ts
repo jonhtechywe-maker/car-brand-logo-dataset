@@ -29,7 +29,7 @@ abstract class BaseClass {
                 console.log(`Attempt ${attempts} failed. ${this.chalk.yellow("Retrying...")}`);
             }
         }
-        throw new Error
+        throw new Error(`Failed to load document after ${retries} attempts: ${url}`);
     }
 
     protected async downloadFile(url: string, path: string) {
